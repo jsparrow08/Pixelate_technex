@@ -86,7 +86,21 @@
         ofone-ways.
     </li>
 </ul>
-    
+<h3> Approch </h3>
+<ol>
+    <li>
+        Firstly we have segemented our image provided by the camera feed on the bases of colour and shapes to determine its weight and other information.
+    </li>
+    <li>
+        We have created a class object which will store all the information of a cell saved it in a 2D matrix.
+    </li>
+    <li> 
+        By using **Dijsktra Algorithm** we have figured out the optimal path to the destination.
+    </li>
+        We used Diffrential drive to control our robot and by tuning PID gains we make our robot to follow the the desired path.  
+    </li>
+     
 
+</ol>
 </body>
 </html>
