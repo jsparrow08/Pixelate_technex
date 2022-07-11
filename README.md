@@ -97,9 +97,10 @@
     <li> 
         By using **Dijsktra Algorithm** we have figured out the optimal path to the destination.
     </li>
+    <li>
         We used Diffrential drive to control our robot and by tuning PID gains we make our robot to follow the the desired path.  
     </li>
-     
+
 
 </ol>
 </body>
